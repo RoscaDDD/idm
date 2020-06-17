@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+.nav-link, .navbar-brand {
+  color: black;
+}
+
+.footer {
+  border-top: 1px solid black;
+  padding: 2rem;
+  height: 20vh;
+  width: 100vw;
+  text-align: center;
+  
+}
+
+.social-links {
+  display: inline;
+  width: 50%;
+  height: 100%;
+  font-size: 5rem;
+}
+
+.up-to-top {
+  display: inline;
+  font-size: 4.5rem;
+  margin-right: 10rem;
+}
+
+.go-to-categories {
+  display: inline;
+  font-size: 4.5rem;
+  margin-left: 10rem;
+}
+
+.IDM-exclusive {
+  color: black;
+}
+
+.IDM-exclusive:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.darts-background {
+  width: 100%;
+  height: 100%;
+}
+
+h1, h2 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.container-img {
+  margin-bottom: 3rem;
+}
+
+.container-writing {
+  margin-bottom: 3rem;
+}
+
+.darts-photo {
+  float: right;
+}
+
+table {
+  margin-bottom: 3rem;
+}
+
+body, html {
+  padding: 0;
+  margin: 0;
+}
+

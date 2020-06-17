@@ -1,0 +1,163 @@
+* {
+  box-sizing: border-box;
+}
+
+.nav-link, .navbar-brand {
+  color: black;
+}
+
+.footer {
+  border-top: 1px solid black;
+  padding: 2rem;
+  height: 20vh;
+  width: 100vw;
+  text-align: center;
+  
+}
+
+.social-links {
+  display: inline;
+  width: 50%;
+  height: 100%;
+  font-size: 5rem;
+}
+
+.up-to-top {
+  display: inline;
+  font-size: 4.5rem;
+  margin-right: 10rem;
+}
+
+.go-to-categories {
+  display: inline;
+  font-size: 4.5rem;
+  margin-left: 10rem;
+}
+
+.IDM-exclusive {
+  color: black;
+}
+
+.IDM-exclusive:hover {
+  text-decoration: none;
+  color: grey;
+}
+
+.collage-background {
+  width: 100%;
+  height: 100%;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.container-img {
+  margin-bottom: 3rem;
+}
+
+.container-writing {
+  margin-bottom: 3rem;
+}
+
+
+table {
+  margin-bottom: 3rem;
+}
+
+
+
+nav {
+  background-color: #efb138;
+  text-align: center;
+  padding: 1rem;
+}
+
+.nav-link-home {
+  margin-right: auto;
+}
+
+.navbar-brand {
+  margin-left: 5rem;
+}
+
+.navbar-brand:hover {
+  color: #848689;
+}
+
+.nav-link:hover {
+  color: #848689;
+}
+
+body, html {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  width: 100%;
+  height: 100%;
+  
+}
+
+main {
+  margin-top: 4rem;
+  color: grey;
+}
+
+.choice {
+  width: 100%;
+  height: 100%;
+}
+
+
+.chooser {
+  text-align: center;
+  height: 30vh;
+}
+
+.writing {
+  position: relative;
+  bottom: 10rem;
+  text-align: center;
+}
+
+.choices1 {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+h1 {
+  margin-bottom: 3rem;
+}
+
+.choices-row {
+  margin-bottom: 3rem;
+}
+
+h3 {
+  color: white;
+}
+
+.choices2 {
+  text-align: center;
+}
+
+
+.membership {
+  background-color: black;
+  color: white;
+  margin-right: auto;
+}
+
+
+
+.btn-default {
+  background-color: black;
+  color: white;
+  font-size: 3rem;
+}
+
+.container-call {
+  text-align: center;
+}
